@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import HomePage from "./pages/HomePage";
+import HomePage from "./components/pages/HomePage";
 
 type RouteHandler = {
     label: string;
